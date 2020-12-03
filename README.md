@@ -2,14 +2,16 @@
 
 ![enter image description here](https://github.com/kasturi-sahu/Facebook-User-Data-/blob/main/download.jpg?raw=true)
 
-In this project, I want to perform Exploratory Data Analysis with Facebook data set. This data set contains almost 60,000 users and it varies from age, birthday, gender, to likes, mobile likes, etc.
+This is my first Project.
 
 Facebook, a social networking site, is used exchanging information, ideas, marketing and selling products. We shall study the datasets available to understand how are the trends in the following: 
 •Distribution of users 
 •Various activities by users 
 •Understand patterns across genders, age groups and tenure of the users
 
-This project was created as a part of the INSAID capstone.
+I have done an Exploratory Data Analysis (EDA) for this Facebook data to find the most active users based on their age, gender across 99000 users. Also identifying the patterns for Inactive users. Usage in Facebook is based on their activity on the tenure, Likes given , Likes Received , Friendships and Friendships Initiated. With the mobile app being active as well, this data was analyzed for Web and Mobile usage.
+
+In this project I have used NumPy (Numerical Python) which is a perfect tool for performing basic and advanced array operations, Pandas, which is a tool for data wrangling or munging, Pandas Profiling report, Matplotlib, which is one of those plotting libraries that are really useful in data science projects, Seaborn, which is based on Matplotlib.
 
 In this project we can understand the below:
 •While there are more male user accounts, female users (especially teenagers) seem to be more active on facebook
