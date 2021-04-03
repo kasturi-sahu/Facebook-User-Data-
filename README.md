@@ -5,6 +5,7 @@
 This is my first EDA Project.
 
 Facebook, a social networking site, is used for exchanging information, ideas, marketing and selling products. We shall study the datasets available to understand the trends in the following: 
+
 •Distribution of users 
 •Various activities by users 
 •Understand patterns across genders, age groups and tenure of the users
@@ -14,6 +15,7 @@ I have done an Exploratory Data Analysis (EDA) of this Facebook data to find the
 In this project I have used NumPy (Numerical Python): a perfect tool for performing basic and advanced array operations, Pandas: a tool for data wrangling or munging, Pandas Profiling report, Matplotlib which is one of those plotting libraries that are really useful in data science projects and Seaborn which is based on Matplotlib.
 
 Basis the EDA on the available data, we concluded that:
+
 •While there are more male user accounts, female users (especially teenagers) seem to be more active on facebook
 •Users have a tendency of using facebook over mobile at younger age and over webpage as age grows
 •Increase in activities observed in age group between 51 to 80 years
